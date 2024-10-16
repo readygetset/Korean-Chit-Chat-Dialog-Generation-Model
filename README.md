@@ -3,8 +3,8 @@
 ## Overview
 
 This project aims to develop a conversation generation system capable of generating simple, context-aware responses. Initially, the goal included **style transformation** of responses, considering the tone and manner of the conversation. However, due to time constraints, only the **conversation generation** task was developed.
-
-_Initial pipeline — only the section in the red box was developed._
+![pipeline](assets/pipeline.png)
+_Initial pipeline — only the outlined section was developed._
 
 ## Dataset Setup and Preprocessing
 
